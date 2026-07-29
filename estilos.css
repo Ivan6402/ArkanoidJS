@@ -1,0 +1,12 @@
+body {
+  background-color: #111;
+
+}
+
+#canvas {
+  border-bottom: transparent;
+  /* background-image se repite horizontal y vertical por default */
+  background-image: url('./img/bkg.png');
+  margin: 0 auto;
+  display: block;
+}
